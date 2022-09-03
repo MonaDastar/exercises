@@ -56,7 +56,7 @@ and numbers and characters like '!@#$&*'  ")
             last_name = user_list[3],
             birth_date=int(user_list[4])
             )
-        print("***",user)
+        print("user: ",user)
         print(user_list)
         print(f"welcome : {user_list[2]} with username : {user_list[0]} ")
         flag_on = True
