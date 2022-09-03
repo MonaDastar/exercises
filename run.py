@@ -60,10 +60,9 @@ and numbers and characters like '!@#$&*'  ")
         print(user_list)
         print(f"welcome : {user_list[2]} with username : {user_list[0]} ")
         flag_on = True
-        
-        
-        
-        
+
+
+
 # if __name__ == '__main__':
 #     user1 = User('MD','Mona@123')
 #     profile = Profile('mona', 'Dastar',1988)
